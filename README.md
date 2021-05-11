@@ -1,6 +1,8 @@
 # Cardinal Music for Desktop
 
-### Official releases for Cardinal Music. https://cardinalapp.xyz
+#### Official releases for Cardinal Music. https://cardinalapps.xyz/cardinal-music
+
+## How To Download
 
 Click on the latest releases under "Releases" on the right and download the appropiate installer.
 
