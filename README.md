@@ -1,6 +1,6 @@
 # Cardinal Music for Desktop
 
-#### Official releases for Cardinal Music. [cardinalapps.xyz/cardinal-music](https://cardinalapps.xyz/cardinal-music)
+#### Official releases for Cardinal Music. [cardinalapps.xyz/en/cardinal-music](https://cardinalapps.xyz/en/cardinal-music)
 
 ## How To Download
 
