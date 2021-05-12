@@ -1,4 +1,4 @@
-# Cardinal Music for Desktop
+# Cardinal Music
 
 #### Official releases for Cardinal Music. [cardinalapps.xyz/en/cardinal-music](https://cardinalapps.xyz/en/cardinal-music)
 
