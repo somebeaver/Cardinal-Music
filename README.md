@@ -25,6 +25,6 @@ Drag the application into the trash. This will preserve your user data. To also 
 
 Use any of the built-in Uninstall options.
 
-On Linux
+### On Linux
 
 `sudo apt-get uninstall cardinalmusic`
